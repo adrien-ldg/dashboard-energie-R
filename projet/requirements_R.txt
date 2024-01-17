@@ -1,0 +1,8 @@
+install.packages("shiny")
+install.packages("shinydashboard")
+install.packages("tidyverse")
+install.packages("DT")
+install.packages("ggplot2")
+install.packages("plotly")
+install.packages("ggcorrplot")
+install.packages("maps")
